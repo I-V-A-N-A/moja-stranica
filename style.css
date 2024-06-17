@@ -1,0 +1,36 @@
+#ime{
+    color:gray;
+
+}
+body{
+    background-color: pink;
+}
+#Ed{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    border-top: 20px;
+    border-bottom: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    border-color: solid black;
+    border: 20px solid black;
+
+}
+#ob{
+    font-size:x-large;
+    color:gray;
+    text-align: center;
+}
+#h1{
+  
+    color:black;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#t{
+    color:red;
+    font-size: x-large;
+    border-bottom: 10px solid black;
+    
+    
+}
